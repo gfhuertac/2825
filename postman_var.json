@@ -1,0 +1,22 @@
+{
+    "id": "9a496b7a-5cba-72c2-82c4-f9837fcd3b66",
+    "name": "Brivo Pi API (dev)",
+    "values": [
+        {
+            "key": "Version",
+            "value": "1.0.x",
+            "type": "text"
+        },
+        {
+            "key": "URL",
+            "value": "http://pi-api-dev.herokuapp.com",
+            "type": "text"
+        },
+        {
+            "key": "Token",
+            "value": "YOUMUSTGETTHIS",
+            "type": "text"
+        }
+    ],
+    "timestamp": 1378357106904
+}
